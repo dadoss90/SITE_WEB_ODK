@@ -1,0 +1,450 @@
+0000.003 (0) Opened log file at time: Wed, 27 Jul 2022 08:57:38 +0000 on http://localhost/odc_web
+0000.009 (0) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.22.14 WP: 6.0.1 PHP: 7.3.29 (apache2handler, Windows NT DCIREODCPR6 10.0 build 19044 (Windows 10) AMD64) MySQL: 10.4.20-MariaDB (max packet size=1048576) WPLANG: fr_FR Server: Apache/2.4.48 (Win64) OpenSSL/1.1.1k PHP/7.3.29 safe_mode: 0 max_execution_time: 900 memory_limit: 512M (used: 51.9M | 54M) multisite: N openssl: OpenSSL 1.1.1k  25 Mar 2021 mcrypt: N LANG:  ZipArchive::addFile: Y
+0000.012 (0) Free space on disk containing Updraft's temporary directory: 241709.5 MB
+0000.019 (0) Tasks: Backup files: 1 (schedule: daily) Backup DB:  (schedule: daily)
+0000.022 (0) Processed schedules. Combining jobs from identical schedules. Tasks now: Backup files: 1 Backup DB: 1
+0000.052 (0) Requesting semaphore lock (fd) (apparently via scheduler: last_scheduled_action_called_at=1658842827, seconds_ago=69431)
+0000.064 (0) Set semaphore last lock (fd) time to 2022-07-27 08:57:38
+0000.066 (0) Semaphore lock (fd) complete
+0000.081 (0) Backup run: resumption=0, nonce=b465f621cba4, file_nonce=b465f621cba4 begun at=1658912258 (0s ago), job type=backup
+0000.086 (0) Scheduling a resumption (1) after 376 seconds (1658912634) in case this run gets aborted
+0000.135 (0) Checking if we have a zip executable available
+0000.141 (0) Creation of backups of directories: beginning
+0000.152 (0) Beginning creation of dump of plugins (split every: 400 MB)
+0003.412 (0) Total entities for the zip file: 953 directories, 5030 files (0 skipped as non-modified), 105.8 MB
+0003.435 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0 MB, 1 (1) files added so far); re-opening (prior size: 0 KB)
+0003.972 (0) Zip: backup_2022-07-27-1057_Orange_Digital_Center_Mali_b465f621cba4-plugins.zip.tmp: 100 files added (on-disk size: 166.2 KB)
+0004.880 (0) Zip: backup_2022-07-27-1057_Orange_Digital_Center_Mali_b465f621cba4-plugins.zip.tmp: 200 files added (on-disk size: 166.2 KB)
+0005.487 (0) Zip: backup_2022-07-27-1057_Orange_Digital_Center_Mali_b465f621cba4-plugins.zip.tmp: 300 files added (on-disk size: 166.2 KB)
+0005.830 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (7.5 MB, 342 (343) files added so far); re-opening (prior size: 166.2 KB)
+0008.749 (0) Zip: backup_2022-07-27-1057_Orange_Digital_Center_Mali_b465f621cba4-plugins.zip.tmp: 400 files added (on-disk size: 2526.7 KB)
+0008.781 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (8 MB, 60 (403) files added so far); re-opening (prior size: 2526.7 KB)
+0011.237 (0) Zip: backup_2022-07-27-1057_Orange_Digital_Center_Mali_b465f621cba4-plugins.zip.tmp: 500 files added (on-disk size: 3958.3 KB)
+0012.112 (0) Zip: backup_2022-07-27-1057_Orange_Digital_Center_Mali_b465f621cba4-plugins.zip.tmp: 600 files added (on-disk size: 3958.3 KB)
+0012.313 (0) Zip: backup_2022-07-27-1057_Orange_Digital_Center_Mali_b465f621cba4-plugins.zip.tmp: 700 files added (on-disk size: 3958.3 KB)
+0012.791 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (10.1 MB, 390 (793) files added so far); re-opening (prior size: 3958.3 KB)
+0014.867 (0) Zip: backup_2022-07-27-1057_Orange_Digital_Center_Mali_b465f621cba4-plugins.zip.tmp: 800 files added (on-disk size: 7932.6 KB)
+0015.260 (0) Zip: backup_2022-07-27-1057_Orange_Digital_Center_Mali_b465f621cba4-plugins.zip.tmp: 900 files added (on-disk size: 7932.6 KB)
+0015.923 (0) Zip: backup_2022-07-27-1057_Orange_Digital_Center_Mali_b465f621cba4-plugins.zip.tmp: 1000 files added (on-disk size: 7932.6 KB)
+0017.146 (0) Zip: backup_2022-07-27-1057_Orange_Digital_Center_Mali_b465f621cba4-plugins.zip.tmp: 1100 files added (on-disk size: 7932.6 KB)
+0018.171 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (3.5 MB, 384 (1177) files added so far); re-opening (prior size: 7932.6 KB)
+0019.170 (0) Zip: backup_2022-07-27-1057_Orange_Digital_Center_Mali_b465f621cba4-plugins.zip.tmp: 1200 files added (on-disk size: 8919.6 KB)
+0022.217 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (3.1 MB, 106 (1283) files added so far); re-opening (prior size: 8919.6 KB)
+0024.897 (0) Zip: backup_2022-07-27-1057_Orange_Digital_Center_Mali_b465f621cba4-plugins.zip.tmp: 1300 files added (on-disk size: 9753.5 KB)
+0025.781 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.3 MB, 47 (1330) files added so far); re-opening (prior size: 9753.5 KB)
+0027.857 (0) Zip: backup_2022-07-27-1057_Orange_Digital_Center_Mali_b465f621cba4-plugins.zip.tmp: 1400 files added (on-disk size: 9851.5 KB)
+0028.786 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (2.2 MB, 133 (1463) files added so far); re-opening (prior size: 9851.5 KB)
+0030.567 (0) Zip: backup_2022-07-27-1057_Orange_Digital_Center_Mali_b465f621cba4-plugins.zip.tmp: 1500 files added (on-disk size: 10593.5 KB)
+0031.808 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.9 MB, 127 (1590) files added so far); re-opening (prior size: 10593.5 KB)
+0032.516 (0) Zip: backup_2022-07-27-1057_Orange_Digital_Center_Mali_b465f621cba4-plugins.zip.tmp: 1600 files added (on-disk size: 10958.2 KB)
+0034.806 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.6 MB, 96 (1686) files added so far); re-opening (prior size: 10958.2 KB)
+0037.817 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.1 MB, 11 (1697) files added so far); re-opening (prior size: 11125.1 KB)
+0038.625 (0) Zip: backup_2022-07-27-1057_Orange_Digital_Center_Mali_b465f621cba4-plugins.zip.tmp: 1700 files added (on-disk size: 11152.7 KB)
+0041.320 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.3 MB, 25 (1722) files added so far); re-opening (prior size: 11152.7 KB)
+0042.652 (0) Zip: backup_2022-07-27-1057_Orange_Digital_Center_Mali_b465f621cba4-plugins.zip.tmp: 1800 files added (on-disk size: 11265.5 KB)
+0043.291 (0) Zip: backup_2022-07-27-1057_Orange_Digital_Center_Mali_b465f621cba4-plugins.zip.tmp: 1900 files added (on-disk size: 11265.5 KB)
+0043.783 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (5.2 MB, 255 (1977) files added so far); re-opening (prior size: 11265.5 KB)
+0045.092 (0) Zip: backup_2022-07-27-1057_Orange_Digital_Center_Mali_b465f621cba4-plugins.zip.tmp: 2000 files added (on-disk size: 13742.2 KB)
+0046.797 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (1.9 MB, 102 (2079) files added so far); re-opening (prior size: 13742.2 KB)
+0047.883 (0) Zip: backup_2022-07-27-1057_Orange_Digital_Center_Mali_b465f621cba4-plugins.zip.tmp: 2100 files added (on-disk size: 14254.3 KB)
+0049.816 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (12.9 MB, 121 (2200) files added so far); re-opening (prior size: 14254.3 KB)
+0052.323 (0) Zip: backup_2022-07-27-1057_Orange_Digital_Center_Mali_b465f621cba4-plugins.zip.tmp: 2200 files added (on-disk size: 17566.8 KB)
+0054.996 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.6 MB, 38 (2238) files added so far); re-opening (prior size: 17566.8 KB)
+0056.630 (0) Zip: backup_2022-07-27-1057_Orange_Digital_Center_Mali_b465f621cba4-plugins.zip.tmp: 2300 files added (on-disk size: 17737.2 KB)
+0057.886 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.8 MB, 137 (2375) files added so far); re-opening (prior size: 17737.2 KB)
+0059.012 (0) Zip: backup_2022-07-27-1057_Orange_Digital_Center_Mali_b465f621cba4-plugins.zip.tmp: 2400 files added (on-disk size: 17924.1 KB)
+0060.756 (0) Zip: backup_2022-07-27-1057_Orange_Digital_Center_Mali_b465f621cba4-plugins.zip.tmp: 2500 files added (on-disk size: 17924.1 KB)
+0060.781 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.8 MB, 127 (2502) files added so far); re-opening (prior size: 17924.1 KB)
+0062.991 (0) Zip: backup_2022-07-27-1057_Orange_Digital_Center_Mali_b465f621cba4-plugins.zip.tmp: 2600 files added (on-disk size: 18104.1 KB)
+0063.804 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (1.6 MB, 157 (2659) files added so far); re-opening (prior size: 18104.1 KB)
+0065.145 (0) Zip: backup_2022-07-27-1057_Orange_Digital_Center_Mali_b465f621cba4-plugins.zip.tmp: 2700 files added (on-disk size: 18623.1 KB)
+0066.619 (0) Zip: backup_2022-07-27-1057_Orange_Digital_Center_Mali_b465f621cba4-plugins.zip.tmp: 2800 files added (on-disk size: 18623.1 KB)
+0066.786 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.7 MB, 157 (2816) files added so far); re-opening (prior size: 18623.1 KB)
+0069.036 (0) Zip: backup_2022-07-27-1057_Orange_Digital_Center_Mali_b465f621cba4-plugins.zip.tmp: 2900 files added (on-disk size: 18926.1 KB)
+0069.815 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.6 MB, 120 (2936) files added so far); re-opening (prior size: 18926.1 KB)
+0071.485 (0) Zip: backup_2022-07-27-1057_Orange_Digital_Center_Mali_b465f621cba4-plugins.zip.tmp: 3000 files added (on-disk size: 19143.2 KB)
+0072.788 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (1.6 MB, 138 (3074) files added so far); re-opening (prior size: 19143.2 KB)
+0073.791 (0) Zip: backup_2022-07-27-1057_Orange_Digital_Center_Mali_b465f621cba4-plugins.zip.tmp: 3100 files added (on-disk size: 19555.6 KB)
+0075.186 (0) Zip: backup_2022-07-27-1057_Orange_Digital_Center_Mali_b465f621cba4-plugins.zip.tmp: 3200 files added (on-disk size: 19555.6 KB)
+0075.785 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.4 MB, 180 (3254) files added so far); re-opening (prior size: 19555.6 KB)
+0077.097 (0) Zip: backup_2022-07-27-1057_Orange_Digital_Center_Mali_b465f621cba4-plugins.zip.tmp: 3300 files added (on-disk size: 19749.2 KB)
+0078.785 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (17 MB, 121 (3375) files added so far); re-opening (prior size: 19749.2 KB)
+0080.527 (0) Zip: backup_2022-07-27-1057_Orange_Digital_Center_Mali_b465f621cba4-plugins.zip.tmp: 3400 files added (on-disk size: 24592.8 KB)
+0082.919 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (7.5 MB, 92 (3467) files added so far); re-opening (prior size: 24592.8 KB)
+0084.711 (0) Zip: backup_2022-07-27-1057_Orange_Digital_Center_Mali_b465f621cba4-plugins.zip.tmp: 3500 files added (on-disk size: 29755.4 KB)
+0085.783 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (2.5 MB, 65 (3532) files added so far); re-opening (prior size: 29755.4 KB)
+0087.164 (0) Zip: backup_2022-07-27-1057_Orange_Digital_Center_Mali_b465f621cba4-plugins.zip.tmp: 3600 files added (on-disk size: 31965.2 KB)
+0087.976 (0) Zip: backup_2022-07-27-1057_Orange_Digital_Center_Mali_b465f621cba4-plugins.zip.tmp: 3700 files added (on-disk size: 31965.2 KB)
+0088.783 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (2.7 MB, 209 (3741) files added so far); re-opening (prior size: 31965.2 KB)
+0090.496 (0) Zip: backup_2022-07-27-1057_Orange_Digital_Center_Mali_b465f621cba4-plugins.zip.tmp: 3800 files added (on-disk size: 34133.8 KB)
+0091.159 (0) Zip: backup_2022-07-27-1057_Orange_Digital_Center_Mali_b465f621cba4-plugins.zip.tmp: 3900 files added (on-disk size: 34133.8 KB)
+0091.826 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (4.3 MB, 216 (3957) files added so far); re-opening (prior size: 34133.8 KB)
+0093.986 (0) Zip: backup_2022-07-27-1057_Orange_Digital_Center_Mali_b465f621cba4-plugins.zip.tmp: 4000 files added (on-disk size: 35460.4 KB)
+0094.933 (0) Zip: backup_2022-07-27-1057_Orange_Digital_Center_Mali_b465f621cba4-plugins.zip.tmp: 4100 files added (on-disk size: 35460.4 KB)
+0095.353 (0) Zip: backup_2022-07-27-1057_Orange_Digital_Center_Mali_b465f621cba4-plugins.zip.tmp: 4200 files added (on-disk size: 35460.4 KB)
+0095.792 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (4.1 MB, 284 (4241) files added so far); re-opening (prior size: 35460.4 KB)
+0099.201 (0) Zip: backup_2022-07-27-1057_Orange_Digital_Center_Mali_b465f621cba4-plugins.zip.tmp: 4300 files added (on-disk size: 36586.8 KB)
+0099.476 (0) Zip: backup_2022-07-27-1057_Orange_Digital_Center_Mali_b465f621cba4-plugins.zip.tmp: 4400 files added (on-disk size: 36586.8 KB)
+0099.530 (0) Zip: backup_2022-07-27-1057_Orange_Digital_Center_Mali_b465f621cba4-plugins.zip.tmp: 4500 files added (on-disk size: 36586.8 KB)
+0100.013 (0) Zip: backup_2022-07-27-1057_Orange_Digital_Center_Mali_b465f621cba4-plugins.zip.tmp: 4600 files added (on-disk size: 36586.8 KB)
+0100.795 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (2 MB, 447 (4688) files added so far); re-opening (prior size: 36586.8 KB)
+0101.684 (0) Zip: backup_2022-07-27-1057_Orange_Digital_Center_Mali_b465f621cba4-plugins.zip.tmp: 4700 files added (on-disk size: 37127 KB)
+0103.210 (0) Zip: backup_2022-07-27-1057_Orange_Digital_Center_Mali_b465f621cba4-plugins.zip.tmp: 4800 files added (on-disk size: 37127 KB)
+0103.797 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.6 MB, 175 (4863) files added so far); re-opening (prior size: 37127 KB)
+0104.949 (0) Zip: backup_2022-07-27-1057_Orange_Digital_Center_Mali_b465f621cba4-plugins.zip.tmp: 4900 files added (on-disk size: 37355.7 KB)
+0106.642 (0) Zip: backup_2022-07-27-1057_Orange_Digital_Center_Mali_b465f621cba4-plugins.zip.tmp: 5000 files added (on-disk size: 37355.7 KB)
+0106.785 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (1.2 MB, 152 (5015) files added so far); re-opening (prior size: 37355.7 KB)
+0108.375 (0) Creating zip file manifest (backup_2022-07-27-1057_Orange_Digital_Center_Mali_b465f621cba4-plugins.zip.list-temp.tmp)
+0108.417 (0) Successfully created zip file manifest (size: 409042)
+0109.225 (0) Created plugins zip (0) - 37852.2 KB in 109.1 s (347.1 KB/s) (sha1: 5a544e7c1418c728cabc5be4e3d3f5935a4a25ac, sha256: e0894f249ab9dc1cb4c2b9da224c58c76526a4fbf5a1984804fcec121c5638ca)
+0109.233 (0) Beginning creation of dump of themes (split every: 400 MB)
+0110.033 (0) Total entities for the zip file: 252 directories, 1165 files (0 skipped as non-modified), 33.5 MB
+0111.786 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (1.6 MB, 55 (55) files added so far); re-opening (prior size: 0 KB)
+0113.190 (0) Zip: backup_2022-07-27-1057_Orange_Digital_Center_Mali_b465f621cba4-themes.zip.tmp: 100 files added (on-disk size: 833.4 KB)
+0113.549 (0) Zip: backup_2022-07-27-1057_Orange_Digital_Center_Mali_b465f621cba4-themes.zip.tmp: 200 files added (on-disk size: 833.4 KB)
+0114.392 (0) Zip: backup_2022-07-27-1057_Orange_Digital_Center_Mali_b465f621cba4-themes.zip.tmp: 300 files added (on-disk size: 833.4 KB)
+0114.781 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (10.5 MB, 298 (353) files added so far); re-opening (prior size: 833.4 KB)
+0117.167 (0) Zip: backup_2022-07-27-1057_Orange_Digital_Center_Mali_b465f621cba4-themes.zip.tmp: 400 files added (on-disk size: 6308.6 KB)
+0118.499 (0) Zip: backup_2022-07-27-1057_Orange_Digital_Center_Mali_b465f621cba4-themes.zip.tmp: 500 files added (on-disk size: 6308.6 KB)
+0118.814 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (5.3 MB, 161 (514) files added so far); re-opening (prior size: 6308.6 KB)
+0121.103 (0) Zip: backup_2022-07-27-1057_Orange_Digital_Center_Mali_b465f621cba4-themes.zip.tmp: 600 files added (on-disk size: 8103.7 KB)
+0121.782 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (2.5 MB, 99 (613) files added so far); re-opening (prior size: 8103.7 KB)
+0123.990 (0) Zip: backup_2022-07-27-1057_Orange_Digital_Center_Mali_b465f621cba4-themes.zip.tmp: 700 files added (on-disk size: 8429.4 KB)
+0125.056 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (2.4 MB, 118 (731) files added so far); re-opening (prior size: 8429.4 KB)
+0127.798 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (3.4 MB, 65 (796) files added so far); re-opening (prior size: 9522.7 KB)
+0128.565 (0) Zip: backup_2022-07-27-1057_Orange_Digital_Center_Mali_b465f621cba4-themes.zip.tmp: 800 files added (on-disk size: 10289.4 KB)
+0130.797 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.1 MB, 59 (855) files added so far); re-opening (prior size: 10289.4 KB)
+0131.946 (0) Zip: backup_2022-07-27-1057_Orange_Digital_Center_Mali_b465f621cba4-themes.zip.tmp: 900 files added (on-disk size: 10336.9 KB)
+0133.652 (0) Zip: backup_2022-07-27-1057_Orange_Digital_Center_Mali_b465f621cba4-themes.zip.tmp: 1000 files added (on-disk size: 10336.9 KB)
+0133.781 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (4.7 MB, 165 (1020) files added so far); re-opening (prior size: 10336.9 KB)
+0135.472 (0) Zip: backup_2022-07-27-1057_Orange_Digital_Center_Mali_b465f621cba4-themes.zip.tmp: 1100 files added (on-disk size: 14304.3 KB)
+0136.840 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (2.4 MB, 130 (1150) files added so far); re-opening (prior size: 14304.3 KB)
+0137.326 (0) Creating zip file manifest (backup_2022-07-27-1057_Orange_Digital_Center_Mali_b465f621cba4-themes.zip.list-temp.tmp)
+0137.339 (0) Successfully created zip file manifest (size: 79973)
+0137.719 (0) Created themes zip (0) - 17022.8 KB in 28.5 s (597.7 KB/s) (sha1: ec3315b2b84a802ac39514d3d6c8412131f8fd1c, sha256: 877fea8993a12cff37486dc76bb5eb44d0385db8b32b74695dc0329f0f8bfca8)
+0137.729 (0) Exclusion option setting (uploads): backup*,*backups,backwpup*,wp-clone,snapshots
+0137.732 (0) Looking for candidates to backup in: C:\xampp\htdocs\odc_web/wp-content/uploads
+0137.735 (0) finding files: 2022: adding to list (1)
+0137.738 (0) finding files: elementor: adding to list (2)
+0137.743 (0) finding files: oceanwp: adding to list (3)
+0137.745 (0) finding files: wpcf7_uploads: adding to list (4)
+0137.748 (0) Beginning creation of dump of uploads (split every: 400 MB)
+0137.801 (0) Total entities for the zip file: 7 directories, 81 files (0 skipped as non-modified), 7.6 MB
+0138.144 (0) Creating zip file manifest (backup_2022-07-27-1057_Orange_Digital_Center_Mali_b465f621cba4-uploads.zip.list-temp.tmp)
+0138.150 (0) Successfully created zip file manifest (size: 4574)
+0138.328 (0) Created uploads zip (0) - 7761.6 KB in 0.6 s (13526.7 KB/s) (sha1: 622860887c1c211890c67e0c9c0fa649b2205496, sha256: 82f53cb667d5eb7361135172a9a64c91f1b5558a2fd5b42efc92494b739189ec)
+0138.337 (0) Beginning backup of other directories found in the content directory (index: 0)
+0138.339 (0) Exclusion option setting (others): upgrade,cache,updraft,backup*,*backups,mysql.sql,debug.log
+0138.342 (0) Looking for candidates to backup in: C:\xampp\htdocs\odc_web/wp-content
+0138.344 (0) finding files: cache: skipping: excluded by options
+0138.347 (0) finding files: index.php: adding to list (1)
+0138.350 (0) finding files: languages: adding to list (2)
+0138.353 (0) finding files: plugins: skipping: this is the plugins directory
+0138.355 (0) finding files: themes: skipping: this is the themes directory
+0138.359 (0) finding files: updraft: skipping: this is the updraft directory
+0138.362 (0) finding files: upgrade: skipping: excluded by options
+0138.365 (0) finding files: uploads: skipping: this is the uploads directory
+0138.447 (0) Total entities for the zip file: 3 directories, 144 files (0 skipped as non-modified), 5.1 MB
+0138.732 (0) Zip: backup_2022-07-27-1057_Orange_Digital_Center_Mali_b465f621cba4-others.zip.tmp: 100 files added (on-disk size: 0 KB)
+0139.881 (0) Creating zip file manifest (backup_2022-07-27-1057_Orange_Digital_Center_Mali_b465f621cba4-others.zip.list-temp.tmp)
+0139.887 (0) Successfully created zip file manifest (size: 9681)
+0139.935 (0) Created others zip (0) - 1470.1 KB in 1.6 s (940.8 KB/s) (sha1: 53aafff34275f6444e242c534eada22880ecaa4d, sha256: ea1af522ce6b3fff9c73002420d919e51a5c984188cf20ae82508cdbef2ad504)
+0139.951 (0) Saving backup status to database (elements: 8)
+0139.958 (0) Beginning creation of database dump (WordPress DB)
+0139.962 (0) SQL compatibility mode is: NO_ZERO_IN_DATE,NO_ENGINE_SUBSTITUTION
+0140.072 (0) Table wp_options: Total expected rows (via COUNT): 326
+0140.077 (0) Table is relatively small; fetch_rows will thus be: 500 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0140.208 (0) Table wp_options: Rows added in this batch (next record: 1245): 322 (uncompressed bytes in this segment=1963435) in 0.19 seconds
+0140.230 (0) Table wp_options: finishing file(s) (2, 312.2 KB)
+0140.247 (0) Table wp_users: Total expected rows (via COUNT): 1
+0140.253 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0140.262 (0) Table wp_users: Rows added in this batch (next record: 1): 1 (uncompressed bytes in this segment=1360) in 0.02 seconds
+0140.278 (0) Table wp_users: finishing file(s) (2, 0.6 KB)
+0140.299 (0) Table wp_usermeta: Total expected rows (via COUNT): 26
+0140.302 (0) Table is relatively small; fetch_rows will thus be: 50 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0140.310 (0) Table wp_usermeta: Rows added in this batch (next record: 26): 26 (uncompressed bytes in this segment=5895) in 0.02 seconds
+0140.329 (0) Table wp_usermeta: finishing file(s) (2, 2.4 KB)
+0140.349 (0) Table wp_commentmeta: Total expected rows (via COUNT): 0
+0140.355 (0) Table wp_commentmeta: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=684) in 0.02 seconds
+0140.386 (0) Table wp_commentmeta: finishing file(s) (2, 0.4 KB)
+0140.403 (0) Table wp_comments: Total expected rows (via COUNT): 1
+0140.406 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0140.414 (0) Table wp_comments: Rows added in this batch (next record: 1): 1 (uncompressed bytes in this segment=2202) in 0.02 seconds
+0140.432 (0) Table wp_comments: finishing file(s) (2, 0.8 KB)
+0140.467 (0) Table wp_links: Total expected rows (via COUNT): 0
+0140.474 (0) Table wp_links: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1266) in 0.01 seconds
+0140.492 (0) Table wp_links: finishing file(s) (2, 0.5 KB)
+0140.521 (0) Table wp_postmeta: Total expected rows (via COUNT): 675
+0140.526 (0) Table is relatively small; fetch_rows will thus be: 500 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0140.555 (0) Table wp_postmeta: Rows added in this batch (next record: 782): 675 (uncompressed bytes in this segment=347850) in 0.05 seconds
+0140.576 (0) Table wp_postmeta: finishing file(s) (2, 15.7 KB)
+0140.605 (0) Table wp_posts: Total expected rows (via COUNT): 116
+0140.608 (0) Table is relatively small; fetch_rows will thus be: 200 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0140.636 (0) Table wp_posts: Rows added in this batch (next record: 134): 116 (uncompressed bytes in this segment=259306) in 0.05 seconds
+0140.656 (0) Table wp_posts: finishing file(s) (2, 17.8 KB)
+0140.671 (0) Table wp_term_relationships: Total expected rows (approximate): 8
+0140.680 (0) Table wp_term_relationships: Rows added in this batch (next record: 100000): 9 (uncompressed bytes in this segment=795) in 0.02 seconds
+0140.696 (0) Table wp_term_relationships: finishing file(s) (2, 0.4 KB)
+0140.714 (0) Table wp_term_taxonomy: Total expected rows (via COUNT): 4
+0140.717 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0140.724 (0) Table wp_term_taxonomy: Rows added in this batch (next record: 4): 4 (uncompressed bytes in this segment=1001) in 0.02 seconds
+0140.741 (0) Table wp_term_taxonomy: finishing file(s) (2, 0.5 KB)
+0140.762 (0) Table wp_termmeta: Total expected rows (via COUNT): 0
+0140.768 (0) Table wp_termmeta: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=657) in 0.02 seconds
+0140.786 (0) Table wp_termmeta: finishing file(s) (2, 0.4 KB)
+0140.806 (0) Table wp_terms: Total expected rows (via COUNT): 4
+0140.809 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0140.816 (0) Table wp_terms: Rows added in this batch (next record: 4): 4 (uncompressed bytes in this segment=840) in 0.02 seconds
+0140.832 (0) Table wp_terms: finishing file(s) (2, 0.5 KB)
+0140.860 (0) Table wp_e_events: Total expected rows (via COUNT): 1
+0140.864 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0140.868 (0) Table wp_e_events: Rows added in this batch (next record: 1): 1 (uncompressed bytes in this segment=795) in 0.01 seconds
+0140.883 (0) Table wp_e_events: finishing file(s) (2, 0.5 KB)
+0140.904 (0) Table wp_yoast_indexable: Total expected rows (via COUNT): 49
+0140.907 (0) Table is relatively small; fetch_rows will thus be: 50 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0140.926 (0) Table wp_yoast_indexable: Rows added in this batch (next record: 61): 49 (uncompressed bytes in this segment=27251) in 0.03 seconds
+0140.944 (0) Table wp_yoast_indexable: finishing file(s) (2, 4.5 KB)
+0140.958 (0) Table wp_yoast_indexable_hierarchy: Total expected rows (approximate): 25
+0140.967 (0) Table wp_yoast_indexable_hierarchy: Rows added in this batch (next record: 1000): 25 (uncompressed bytes in this segment=1189) in 0.02 seconds
+0140.983 (0) Table wp_yoast_indexable_hierarchy: finishing file(s) (2, 0.5 KB)
+0141.012 (0) Table wp_yoast_migrations: Total expected rows (via COUNT): 23
+0141.015 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0141.023 (0) Table wp_yoast_migrations: Rows added in this batch (next record: 23): 23 (uncompressed bytes in this segment=1232) in 0.02 seconds
+0141.040 (0) Table wp_yoast_migrations: finishing file(s) (2, 0.6 KB)
+0141.075 (0) Table wp_yoast_primary_term: Total expected rows (via COUNT): 0
+0141.083 (0) Table wp_yoast_primary_term: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=852) in 0.02 seconds
+0141.101 (0) Table wp_yoast_primary_term: finishing file(s) (2, 0.4 KB)
+0141.120 (0) Table wp_yoast_seo_links: Total expected rows (via COUNT): 30
+0141.123 (0) Table is relatively small; fetch_rows will thus be: 50 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0141.133 (0) Table wp_yoast_seo_links: Rows added in this batch (next record: 62): 30 (uncompressed bytes in this segment=5202) in 0.02 seconds
+0141.149 (0) Table wp_yoast_seo_links: finishing file(s) (2, 1.1 KB)
+0141.155 (0) backup_2022-07-27-1057_Orange_Digital_Center_Mali_b465f621cba4-db-table-wp_options.table.tmpr1246.gz (1/18/fopen): adding to final database dump
+0141.171 (0) backup_2022-07-27-1057_Orange_Digital_Center_Mali_b465f621cba4-db-table-wp_options.table.gz (2/18/fopen): adding to final database dump
+0141.175 (0) backup_2022-07-27-1057_Orange_Digital_Center_Mali_b465f621cba4-db-table-wp_users.table.tmpr2.gz (3/18/fopen): adding to final database dump
+0141.180 (0) backup_2022-07-27-1057_Orange_Digital_Center_Mali_b465f621cba4-db-table-wp_users.table.gz (4/18/fopen): adding to final database dump
+0141.183 (0) backup_2022-07-27-1057_Orange_Digital_Center_Mali_b465f621cba4-db-table-wp_usermeta.table.tmpr27.gz (5/18/fopen): adding to final database dump
+0141.186 (0) backup_2022-07-27-1057_Orange_Digital_Center_Mali_b465f621cba4-db-table-wp_usermeta.table.gz (6/18/fopen): adding to final database dump
+0141.189 (0) backup_2022-07-27-1057_Orange_Digital_Center_Mali_b465f621cba4-db-table-wp_commentmeta.table.tmpr0.gz (7/18/fopen): adding to final database dump
+0141.193 (0) backup_2022-07-27-1057_Orange_Digital_Center_Mali_b465f621cba4-db-table-wp_commentmeta.table.gz (8/18/fopen): adding to final database dump
+0141.197 (0) backup_2022-07-27-1057_Orange_Digital_Center_Mali_b465f621cba4-db-table-wp_comments.table.tmpr2.gz (9/18/fopen): adding to final database dump
+0141.200 (0) backup_2022-07-27-1057_Orange_Digital_Center_Mali_b465f621cba4-db-table-wp_comments.table.gz (10/18/fopen): adding to final database dump
+0141.203 (0) backup_2022-07-27-1057_Orange_Digital_Center_Mali_b465f621cba4-db-table-wp_links.table.tmpr0.gz (11/18/fopen): adding to final database dump
+0141.206 (0) backup_2022-07-27-1057_Orange_Digital_Center_Mali_b465f621cba4-db-table-wp_links.table.gz (12/18/fopen): adding to final database dump
+0141.211 (0) backup_2022-07-27-1057_Orange_Digital_Center_Mali_b465f621cba4-db-table-wp_postmeta.table.tmpr783.gz (13/18/fopen): adding to final database dump
+0141.215 (0) backup_2022-07-27-1057_Orange_Digital_Center_Mali_b465f621cba4-db-table-wp_postmeta.table.gz (14/18/fopen): adding to final database dump
+0141.218 (0) backup_2022-07-27-1057_Orange_Digital_Center_Mali_b465f621cba4-db-table-wp_posts.table.tmpr135.gz (15/18/fopen): adding to final database dump
+0141.222 (0) backup_2022-07-27-1057_Orange_Digital_Center_Mali_b465f621cba4-db-table-wp_posts.table.gz (16/18/fopen): adding to final database dump
+0141.227 (0) backup_2022-07-27-1057_Orange_Digital_Center_Mali_b465f621cba4-db-table-wp_term_relationships.table.tmpr100001.gz (17/18/fopen): adding to final database dump
+0141.230 (0) backup_2022-07-27-1057_Orange_Digital_Center_Mali_b465f621cba4-db-table-wp_term_relationships.table.gz (18/18/fopen): adding to final database dump
+0141.233 (0) backup_2022-07-27-1057_Orange_Digital_Center_Mali_b465f621cba4-db-table-wp_term_taxonomy.table.tmpr5.gz (19/18/fopen): adding to final database dump
+0141.236 (0) backup_2022-07-27-1057_Orange_Digital_Center_Mali_b465f621cba4-db-table-wp_term_taxonomy.table.gz (20/18/fopen): adding to final database dump
+0141.238 (0) backup_2022-07-27-1057_Orange_Digital_Center_Mali_b465f621cba4-db-table-wp_termmeta.table.tmpr0.gz (21/18/fopen): adding to final database dump
+0141.242 (0) backup_2022-07-27-1057_Orange_Digital_Center_Mali_b465f621cba4-db-table-wp_termmeta.table.gz (22/18/fopen): adding to final database dump
+0141.245 (0) backup_2022-07-27-1057_Orange_Digital_Center_Mali_b465f621cba4-db-table-wp_terms.table.tmpr5.gz (23/18/fopen): adding to final database dump
+0141.248 (0) backup_2022-07-27-1057_Orange_Digital_Center_Mali_b465f621cba4-db-table-wp_terms.table.gz (24/18/fopen): adding to final database dump
+0141.251 (0) backup_2022-07-27-1057_Orange_Digital_Center_Mali_b465f621cba4-db-table-wp_e_events.table.tmpr2.gz (25/18/fopen): adding to final database dump
+0141.254 (0) backup_2022-07-27-1057_Orange_Digital_Center_Mali_b465f621cba4-db-table-wp_e_events.table.gz (26/18/fopen): adding to final database dump
+0141.257 (0) backup_2022-07-27-1057_Orange_Digital_Center_Mali_b465f621cba4-db-table-wp_yoast_indexable.table.tmpr62.gz (27/18/fopen): adding to final database dump
+0141.260 (0) backup_2022-07-27-1057_Orange_Digital_Center_Mali_b465f621cba4-db-table-wp_yoast_indexable.table.gz (28/18/fopen): adding to final database dump
+0141.263 (0) backup_2022-07-27-1057_Orange_Digital_Center_Mali_b465f621cba4-db-table-wp_yoast_indexable_hierarchy.table.tmpr1001.gz (29/18/fopen): adding to final database dump
+0141.266 (0) backup_2022-07-27-1057_Orange_Digital_Center_Mali_b465f621cba4-db-table-wp_yoast_indexable_hierarchy.table.gz (30/18/fopen): adding to final database dump
+0141.269 (0) backup_2022-07-27-1057_Orange_Digital_Center_Mali_b465f621cba4-db-table-wp_yoast_migrations.table.tmpr24.gz (31/18/fopen): adding to final database dump
+0141.272 (0) backup_2022-07-27-1057_Orange_Digital_Center_Mali_b465f621cba4-db-table-wp_yoast_migrations.table.gz (32/18/fopen): adding to final database dump
+0141.275 (0) backup_2022-07-27-1057_Orange_Digital_Center_Mali_b465f621cba4-db-table-wp_yoast_primary_term.table.tmpr0.gz (33/18/fopen): adding to final database dump
+0141.278 (0) backup_2022-07-27-1057_Orange_Digital_Center_Mali_b465f621cba4-db-table-wp_yoast_primary_term.table.gz (34/18/fopen): adding to final database dump
+0141.281 (0) backup_2022-07-27-1057_Orange_Digital_Center_Mali_b465f621cba4-db-table-wp_yoast_seo_links.table.tmpr63.gz (35/18/fopen): adding to final database dump
+0141.284 (0) backup_2022-07-27-1057_Orange_Digital_Center_Mali_b465f621cba4-db-table-wp_yoast_seo_links.table.gz (36/18/fopen): adding to final database dump
+0141.356 (0) backup_2022-07-27-1057_Orange_Digital_Center_Mali_b465f621cba4-db.gz: finished writing out complete database file (359.9 KB)
+0141.392 (0) Total database tables backed up: 18 (backup_2022-07-27-1057_Orange_Digital_Center_Mali_b465f621cba4-db.gz, size: 368598, sha1: 0d64d5343b8d36f634d7f476038fb46a9292d895, sha256: b73154ff9d9ba2413aa73857c6e0c045b6103646a264645d95eb724982d0ec3e)
+0141.412 (0) backup_2022-07-27-1057_Orange_Digital_Center_Mali_b465f621cba4-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+0141.415 (0) backup_2022-07-27-1057_Orange_Digital_Center_Mali_b465f621cba4-themes.zip: themes: This file has not yet been successfully uploaded: will queue
+0141.417 (0) backup_2022-07-27-1057_Orange_Digital_Center_Mali_b465f621cba4-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+0141.420 (0) backup_2022-07-27-1057_Orange_Digital_Center_Mali_b465f621cba4-others.zip: others: This file has not yet been successfully uploaded: will queue
+0141.422 (0) backup_2022-07-27-1057_Orange_Digital_Center_Mali_b465f621cba4-db.gz: db: This file has not yet been successfully uploaded: will queue
+0141.425 (0) Saving backup history. Total backup size: 63 MB
+0141.434 (0) Requesting upload of the files that have not yet been successfully uploaded (5)
+0141.443 (0) Cloud backup selection (1/1): googledrive with instance (1/1) (last)
+0141.447 (0) Beginning dispatch of backup to remote (googledrive) (instance identifier s-fd92ad2c0853564bd968597b99ec6fda)
+0146.090 (0) Google Drive: quota usage: used=63.8 MB, total=15360 MB, available=15296.2 MB
+0146.112 (0) Google Drive: backup_2022-07-27-1057_Orange_Digital_Center_Mali_b465f621cba4-plugins.zip: Attempting to upload to Google Drive (into folder id: 1myp8HXgbT3WHs_wqEO4n1lk_xhpanK0P)
+0151.413 (0) Googledrive chunked upload: 2.7 % uploaded (1048576)
+0211.425 (0) Google Drive: ERROR: upload exception (UDP_Google_IO_Exception): Operation timed out after 60000 milliseconds with 0 bytes received (line: 117, file: C:\xampp\htdocs\odc_web\wp-content\plugins\updraftplus\includes\Google\IO\Curl.php)
+0215.422 (0) Googledrive chunked upload: 2.7 % uploaded (1048576)
+0275.428 (0) Google Drive: ERROR: upload exception (UDP_Google_IO_Exception): Operation timed out after 60000 milliseconds with 0 bytes received (line: 117, file: C:\xampp\htdocs\odc_web\wp-content\plugins\updraftplus\includes\Google\IO\Curl.php)
+0275.435 (0) Google Drive: Upload exception (UDP_Google_IO_Exception): Operation timed out after 60000 milliseconds with 0 bytes received (line: 117, file: C:\xampp\htdocs\odc_web\wp-content\plugins\updraftplus\includes\Google\IO\Curl.php)
+0275.437 (0) An error condition has occurred for the first time during this job
+0275.927 (0) Google Drive: quota usage: used=63.8 MB, total=15360 MB, available=15296.2 MB
+0275.931 (0) Google Drive: backup_2022-07-27-1057_Orange_Digital_Center_Mali_b465f621cba4-themes.zip: Attempting to upload to Google Drive (into folder id: 1myp8HXgbT3WHs_wqEO4n1lk_xhpanK0P)
+0279.440 (0) Googledrive chunked upload: 6 % uploaded (1048576)
+0339.433 (0) Google Drive: ERROR: upload exception (UDP_Google_IO_Exception): Operation timed out after 59999 milliseconds with 0 bytes received (line: 117, file: C:\xampp\htdocs\odc_web\wp-content\plugins\updraftplus\includes\Google\IO\Curl.php)
+0399.972 (0) Google Drive: ERROR: upload exception (UDP_Google_IO_Exception): Operation timed out after 60000 milliseconds with 0 bytes received (line: 117, file: C:\xampp\htdocs\odc_web\wp-content\plugins\updraftplus\includes\Google\IO\Curl.php)
+0399.977 (0) Google Drive: Upload exception (UDP_Google_IO_Exception): Operation timed out after 60000 milliseconds with 0 bytes received (line: 117, file: C:\xampp\htdocs\odc_web\wp-content\plugins\updraftplus\includes\Google\IO\Curl.php)
+0400.602 (0) Google Drive: quota usage: used=63.8 MB, total=15360 MB, available=15296.2 MB
+0400.623 (0) Google Drive: backup_2022-07-27-1057_Orange_Digital_Center_Mali_b465f621cba4-uploads.zip: Attempting to upload to Google Drive (into folder id: 1myp8HXgbT3WHs_wqEO4n1lk_xhpanK0P)
+0403.499 (0) The time we have been running (403.5) is approaching the resumption interval (376) - increasing resumption interval to 434
+0403.503 (0) Googledrive chunked upload: 13.2 % uploaded (1048576)
+0407.523 (0) The time we have been running (407.5) is approaching the resumption interval (434) - increasing resumption interval to 438
+0407.529 (0) Googledrive chunked upload: 26.4 % uploaded (2097152)
+0410.505 (0) The time we have been running (410.5) is approaching the resumption interval (438) - increasing resumption interval to 441
+0410.511 (0) Googledrive chunked upload: 39.6 % uploaded (3145728)
+29335.918 (1) Opened log file at time: Wed, 27 Jul 2022 17:06:34 +0000 on http://localhost/odc_web
+29335.924 (1) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.22.14 WP: 6.0.1 PHP: 7.3.29 (apache2handler, Windows NT DCIREODCPR6 10.0 build 19044 (Windows 10) AMD64) MySQL: 10.4.20-MariaDB (max packet size=1048576) WPLANG: fr_FR Server: Apache/2.4.48 (Win64) OpenSSL/1.1.1k PHP/7.3.29 safe_mode: 0 max_execution_time: 900 memory_limit: 512M (used: 51.9M | 54M) multisite: N openssl: OpenSSL 1.1.1k  25 Mar 2021 mcrypt: N LANG:  ZipArchive::addFile: Y
+29335.927 (1) Free space on disk containing Updraft's temporary directory: 238398.3 MB
+29335.936 (1) Requesting backup semaphore lock (b465f621cba4)
+29335.943 (1) [Debug] Lock option (updraft_lock_b465f621cba4, wp_options) was created in the database
+29335.948 (1) [Info] Lock (updraft_lock_b465f621cba4, wp_options) acquired after initialising the database
+29335.953 (1) Backup run: resumption=1, nonce=b465f621cba4, file_nonce=b465f621cba4 begun at=1658912258 (29336s ago), job type=backup, previous check-in=410.49s
+29335.955 (1) Long time past since expected resumption time: approx expected=1658913109.8, now=1658941594.1, diff=28484.3
+29335.961 (1) [Warning] Votre site est consulté rarement et UpdraftPlus ne peut récupérer les ressources qu'il recherche; veuillez prendre connaissance de cette page: https://updraftplus.com/faqs/why-am-i-getting-warnings-about-my-site-not-having-enough-visitors/
+29335.967 (1) Scheduling a resumption (2) after 441 seconds (1658942035) in case this run gets aborted
+29335.995 (1) Checking if we have a zip executable available
+29335.998 (1) Creation of backups of directories: already finished
+29336.001 (1) Saving backup status to database (elements: 8)
+29336.089 (1) Database dump (WordPress DB): Creation was completed already
+29336.092 (1) SQL compatibility mode is: NO_ZERO_IN_DATE,NO_ENGINE_SUBSTITUTION
+29336.101 (1) backup_2022-07-27-1057_Orange_Digital_Center_Mali_b465f621cba4-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+29336.103 (1) backup_2022-07-27-1057_Orange_Digital_Center_Mali_b465f621cba4-themes.zip: themes: This file has not yet been successfully uploaded: will queue
+29336.105 (1) backup_2022-07-27-1057_Orange_Digital_Center_Mali_b465f621cba4-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+29336.107 (1) backup_2022-07-27-1057_Orange_Digital_Center_Mali_b465f621cba4-others.zip: others: This file has not yet been successfully uploaded: will queue
+29336.109 (1) backup_2022-07-27-1057_Orange_Digital_Center_Mali_b465f621cba4-db.gz: db: This file has not yet been successfully uploaded: will queue
+29336.110 (1) Saving backup history. Total backup size: 63 MB
+29336.114 (1) Requesting upload of the files that have not yet been successfully uploaded (5)
+29336.115 (1) Cloud backup selection (1/1): googledrive with instance (1/1) (last)
+29336.117 (1) Beginning dispatch of backup to remote (googledrive) (instance identifier s-fd92ad2c0853564bd968597b99ec6fda)
+29339.985 (1) Google Drive: quota usage: used=63.8 MB, total=15360 MB, available=15296.2 MB
+29339.988 (1) Google Drive: backup_2022-07-27-1057_Orange_Digital_Center_Mali_b465f621cba4-plugins.zip: Attempting to upload to Google Drive (into folder id: 1myp8HXgbT3WHs_wqEO4n1lk_xhpanK0P)
+29400.925 (1) Google Drive: ERROR: upload exception (UDP_Google_IO_Exception): Operation timed out after 60000 milliseconds with 0 bytes received (line: 117, file: C:\xampp\htdocs\odc_web\wp-content\plugins\updraftplus\includes\Google\IO\Curl.php)
+29461.743 (1) Google Drive: ERROR: upload exception (UDP_Google_IO_Exception): Operation timed out after 59999 milliseconds with 0 bytes received (line: 117, file: C:\xampp\htdocs\odc_web\wp-content\plugins\updraftplus\includes\Google\IO\Curl.php)
+29461.748 (1) Google Drive: Upload exception (UDP_Google_IO_Exception): Operation timed out after 59999 milliseconds with 0 bytes received (line: 117, file: C:\xampp\htdocs\odc_web\wp-content\plugins\updraftplus\includes\Google\IO\Curl.php)
+29461.750 (1) An error condition has occurred for the first time during this job
+29462.451 (1) Google Drive: quota usage: used=63.8 MB, total=15360 MB, available=15296.2 MB
+29462.456 (1) Google Drive: backup_2022-07-27-1057_Orange_Digital_Center_Mali_b465f621cba4-themes.zip: Attempting to upload to Google Drive (into folder id: 1myp8HXgbT3WHs_wqEO4n1lk_xhpanK0P)
+29523.364 (1) Google Drive: ERROR: upload exception (UDP_Google_IO_Exception): Operation timed out after 59999 milliseconds with 0 bytes received (line: 117, file: C:\xampp\htdocs\odc_web\wp-content\plugins\updraftplus\includes\Google\IO\Curl.php)
+29523.369 (1) Google Drive: ERROR: upload exception (UDP_Google_IO_Exception): Could not resolve host: www.googleapis.com (line: 117, file: C:\xampp\htdocs\odc_web\wp-content\plugins\updraftplus\includes\Google\IO\Curl.php)
+29523.371 (1) Google Drive: Upload exception (UDP_Google_IO_Exception): Could not resolve host: www.googleapis.com (line: 117, file: C:\xampp\htdocs\odc_web\wp-content\plugins\updraftplus\includes\Google\IO\Curl.php)
+29523.375 (1) Google Drive: quota usage: failed to obtain this information: Could not resolve host: www.googleapis.com
+29523.376 (1) Google Drive: backup_2022-07-27-1057_Orange_Digital_Center_Mali_b465f621cba4-uploads.zip: Attempting to upload to Google Drive (into folder id: 1myp8HXgbT3WHs_wqEO4n1lk_xhpanK0P)
+29523.380 (1) Google Drive: Upload exception (UDP_Google_IO_Exception): Could not resolve host: www.googleapis.com (line: 117, file: C:\xampp\htdocs\odc_web\wp-content\plugins\updraftplus\includes\Google\IO\Curl.php)
+29523.384 (1) Google Drive: quota usage: failed to obtain this information: Could not resolve host: www.googleapis.com
+29523.386 (1) Google Drive: backup_2022-07-27-1057_Orange_Digital_Center_Mali_b465f621cba4-others.zip: Attempting to upload to Google Drive (into folder id: 1myp8HXgbT3WHs_wqEO4n1lk_xhpanK0P)
+29523.402 (1) Google Drive: ERROR: upload exception (UDP_Google_IO_Exception): Could not resolve host: www.googleapis.com (line: 117, file: C:\xampp\htdocs\odc_web\wp-content\plugins\updraftplus\includes\Google\IO\Curl.php)
+29523.406 (1) Google Drive: ERROR: upload exception (UDP_Google_IO_Exception): Could not resolve host: www.googleapis.com (line: 117, file: C:\xampp\htdocs\odc_web\wp-content\plugins\updraftplus\includes\Google\IO\Curl.php)
+29523.406 (1) Google Drive: Upload exception (UDP_Google_IO_Exception): Could not resolve host: www.googleapis.com (line: 117, file: C:\xampp\htdocs\odc_web\wp-content\plugins\updraftplus\includes\Google\IO\Curl.php)
+29523.410 (1) Google Drive: quota usage: failed to obtain this information: Could not resolve host: www.googleapis.com
+29523.412 (1) Google Drive: backup_2022-07-27-1057_Orange_Digital_Center_Mali_b465f621cba4-db.gz: Attempting to upload to Google Drive (into folder id: 1myp8HXgbT3WHs_wqEO4n1lk_xhpanK0P)
+29523.421 (1) Google Drive: ERROR: upload exception (UDP_Google_IO_Exception): Could not resolve host: www.googleapis.com (line: 117, file: C:\xampp\htdocs\odc_web\wp-content\plugins\updraftplus\includes\Google\IO\Curl.php)
+29523.426 (1) Google Drive: ERROR: upload exception (UDP_Google_IO_Exception): Could not resolve host: www.googleapis.com (line: 117, file: C:\xampp\htdocs\odc_web\wp-content\plugins\updraftplus\includes\Google\IO\Curl.php)
+29523.426 (1) Google Drive: Upload exception (UDP_Google_IO_Exception): Could not resolve host: www.googleapis.com (line: 117, file: C:\xampp\htdocs\odc_web\wp-content\plugins\updraftplus\includes\Google\IO\Curl.php)
+29523.430 (1) Retain: beginning examination of existing backup sets; user setting: retain_files=4, retain_db=4
+29523.431 (1) Number of backup sets in history: 2; groups (db): 1
+29523.433 (1) Examining (for databases) backup set with group_id=0, nonce=b465f621cba4, datestamp=1658912258 (Jul 27 2022 08:57:38)
+29523.434 (1) This backup set is the backup set just made, so will not be deleted.
+29523.435 (1) Examining (for databases) backup set with group_id=0, nonce=31f9a80d337e, datestamp=1658842827 (Jul 26 2022 13:40:27)
+29523.435 (1) This backup set remains non-empty (f=1/d=1); will retain in history
+29523.436 (1) Number of backup sets in history: 2; groups (files): 1
+29523.437 (1) Examining (for files) backup set with nonce=b465f621cba4, datestamp=1658912258 (Jul 27 2022 08:57:38)
+29523.437 (1) This backup set is the backup set just made, so will not be deleted.
+29523.439 (1) This backup set is the backup set just made, so will not be deleted.
+29523.439 (1) This backup set is the backup set just made, so will not be deleted.
+29523.439 (1) This backup set is the backup set just made, so will not be deleted.
+29523.439 (1) This backup set remains non-empty (f=1/d=1); will retain in history
+29523.441 (1) Examining (for files) backup set with nonce=31f9a80d337e, datestamp=1658842827 (Jul 26 2022 13:40:27)
+29523.441 (1) This backup set remains non-empty (f=1/d=1); will retain in history
+29523.441 (1) Retain: saving new backup history (sets now: 2) and finishing retain operation
+29523.444 (1) Resume backup (b465f621cba4, 1): finish run
+29523.448 (1) [Info] Lock option (updraft_lock_b465f621cba4, wp_options) released
+29523.451 (1) There were errors in the uploads, so the 'resume' event is remaining scheduled
+29523.454 (1) No email will/can be sent - the user has not configured an email address.
+29523.456 (1) La sauvegarde ne s'est pas terminée; une relance de la procédure est prévue
+87004.181 (2) Opened log file at time: Thu, 28 Jul 2022 09:07:42 +0000 on http://localhost/odc_web
+87004.184 (2) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.22.14 WP: 6.0.1 PHP: 7.3.29 (apache2handler, Windows NT DCIREODCPR6 10.0 build 19044 (Windows 10) AMD64) MySQL: 10.4.20-MariaDB (max packet size=1048576) WPLANG: fr_FR Server: Apache/2.4.48 (Win64) OpenSSL/1.1.1k PHP/7.3.29 safe_mode: 0 max_execution_time: 900 memory_limit: 512M (used: 51.9M | 54M) multisite: N openssl: OpenSSL 1.1.1k  25 Mar 2021 mcrypt: N LANG:  ZipArchive::addFile: Y
+87004.186 (2) Free space on disk containing Updraft's temporary directory: 238321.1 MB
+87004.188 (2) Requesting backup semaphore lock (b465f621cba4)
+87004.191 (2) [Info] Lock (updraft_lock_b465f621cba4, wp_options) acquired
+87004.195 (2) Backup run: resumption=2, nonce=b465f621cba4, file_nonce=b465f621cba4 begun at=1658912258 (87004s ago), job type=backup
+87004.198 (2) Long time past since expected resumption time: approx expected=1658942035.1, now=1658999262.4, diff=57227.3
+87004.199 (2) [Warning] Votre site est consulté rarement et UpdraftPlus ne peut récupérer les ressources qu'il recherche; veuillez prendre connaissance de cette page: https://updraftplus.com/faqs/why-am-i-getting-warnings-about-my-site-not-having-enough-visitors/
+87004.203 (2) Scheduling a resumption (3) after 441 seconds (1658999703) in case this run gets aborted
+87004.217 (2) Checking if we have a zip executable available
+87004.219 (2) Creation of backups of directories: already finished
+87004.221 (2) Saving backup status to database (elements: 8)
+87004.228 (2) Database dump (WordPress DB): Creation was completed already
+87004.230 (2) SQL compatibility mode is: NO_ZERO_IN_DATE,NO_ENGINE_SUBSTITUTION
+87004.236 (2) backup_2022-07-27-1057_Orange_Digital_Center_Mali_b465f621cba4-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+87004.237 (2) backup_2022-07-27-1057_Orange_Digital_Center_Mali_b465f621cba4-themes.zip: themes: This file has not yet been successfully uploaded: will queue
+87004.239 (2) backup_2022-07-27-1057_Orange_Digital_Center_Mali_b465f621cba4-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+87004.240 (2) backup_2022-07-27-1057_Orange_Digital_Center_Mali_b465f621cba4-others.zip: others: This file has not yet been successfully uploaded: will queue
+87004.242 (2) backup_2022-07-27-1057_Orange_Digital_Center_Mali_b465f621cba4-db.gz: db: This file has not yet been successfully uploaded: will queue
+87004.243 (2) Saving backup history. Total backup size: 63 MB
+87004.246 (2) Requesting upload of the files that have not yet been successfully uploaded (5)
+87004.249 (2) Cloud backup selection (1/1): googledrive with instance (1/1) (last)
+87004.251 (2) Beginning dispatch of backup to remote (googledrive) (instance identifier s-fd92ad2c0853564bd968597b99ec6fda)
+87007.888 (2) Google Drive: quota usage: used=63.8 MB, total=15360 MB, available=15296.2 MB
+87007.890 (2) Google Drive: backup_2022-07-27-1057_Orange_Digital_Center_Mali_b465f621cba4-plugins.zip: Attempting to upload to Google Drive (into folder id: 1myp8HXgbT3WHs_wqEO4n1lk_xhpanK0P)
+87010.591 (2) Googledrive chunked upload: 2.7 % uploaded (1048576)
+87013.478 (2) Googledrive chunked upload: 5.4 % uploaded (2097152)
+87073.492 (2) Google Drive: ERROR: upload exception (UDP_Google_IO_Exception): Operation timed out after 60000 milliseconds with 0 bytes received (line: 117, file: C:\xampp\htdocs\odc_web\wp-content\plugins\updraftplus\includes\Google\IO\Curl.php)
+87076.671 (2) Googledrive chunked upload: 2.7 % uploaded (1048576)
+87080.242 (2) Googledrive chunked upload: 5.4 % uploaded (2097152)
+87140.253 (2) Google Drive: ERROR: upload exception (UDP_Google_IO_Exception): Operation timed out after 60000 milliseconds with 0 bytes received (line: 117, file: C:\xampp\htdocs\odc_web\wp-content\plugins\updraftplus\includes\Google\IO\Curl.php)
+87140.277 (2) Google Drive: Upload exception (UDP_Google_IO_Exception): Operation timed out after 60000 milliseconds with 0 bytes received (line: 117, file: C:\xampp\htdocs\odc_web\wp-content\plugins\updraftplus\includes\Google\IO\Curl.php)
+87140.280 (2) An error condition has occurred for the first time during this job
+87140.795 (2) Google Drive: quota usage: used=63.8 MB, total=15360 MB, available=15296.2 MB
+87140.798 (2) Google Drive: backup_2022-07-27-1057_Orange_Digital_Center_Mali_b465f621cba4-themes.zip: Attempting to upload to Google Drive (into folder id: 1myp8HXgbT3WHs_wqEO4n1lk_xhpanK0P)
+87201.401 (2) Google Drive: ERROR: upload exception (UDP_Google_IO_Exception): Operation timed out after 59999 milliseconds with 0 bytes received (line: 117, file: C:\xampp\htdocs\odc_web\wp-content\plugins\updraftplus\includes\Google\IO\Curl.php)
+87261.999 (2) Google Drive: ERROR: upload exception (UDP_Google_IO_Exception): Operation timed out after 60000 milliseconds with 0 bytes received (line: 117, file: C:\xampp\htdocs\odc_web\wp-content\plugins\updraftplus\includes\Google\IO\Curl.php)
+87262.002 (2) Google Drive: Upload exception (UDP_Google_IO_Exception): Operation timed out after 60000 milliseconds with 0 bytes received (line: 117, file: C:\xampp\htdocs\odc_web\wp-content\plugins\updraftplus\includes\Google\IO\Curl.php)
+87262.466 (2) Google Drive: quota usage: used=63.8 MB, total=15360 MB, available=15296.2 MB
+87262.470 (2) Google Drive: backup_2022-07-27-1057_Orange_Digital_Center_Mali_b465f621cba4-uploads.zip: Attempting to upload to Google Drive (into folder id: 1myp8HXgbT3WHs_wqEO4n1lk_xhpanK0P)
+87262.836 (2) Google Drive: backup_2022-07-27-1057_Orange_Digital_Center_Mali_b465f621cba4-uploads.zip: upload already began; attempt to resume did not succeed (HTTP code: 404)
+87322.848 (2) Google Drive: ERROR: upload exception (UDP_Google_IO_Exception): Operation timed out after 60000 milliseconds with 0 bytes received (line: 117, file: C:\xampp\htdocs\odc_web\wp-content\plugins\updraftplus\includes\Google\IO\Curl.php)
+87325.808 (2) Googledrive chunked upload: 13.2 % uploaded (1048576)
+87327.882 (2) Googledrive chunked upload: 26.4 % uploaded (2097152 - increasing chunk size to 2048 KB - memory usage: 57.9 / 62)
+87331.193 (2) Googledrive chunked upload: 52.8 % uploaded (4194304)
+87335.123 (2) Googledrive chunked upload: 79.2 % uploaded (6291456)
+87339.238 (2) Googledrive chunked upload: 100 % uploaded (6291456)
+87339.248 (2) Google Drive: OK: Archive backup_2022-07-27-1057_Orange_Digital_Center_Mali_b465f621cba4-uploads.zip uploaded in 76.77 seconds
+87339.251 (2) Recording as successfully uploaded: backup_2022-07-27-1057_Orange_Digital_Center_Mali_b465f621cba4-uploads.zip
+87339.258 (2) Deleting local file: backup_2022-07-27-1057_Orange_Digital_Center_Mali_b465f621cba4-uploads.zip: OK
+87339.262 (2) Deleting zip manifest (backup_2022-07-27-1057_Orange_Digital_Center_Mali_b465f621cba4-uploads.zip.list.tmp)
+87339.796 (2) Google Drive: quota usage: used=71.3 MB, total=15360 MB, available=15288.7 MB
+87339.799 (2) Google Drive: backup_2022-07-27-1057_Orange_Digital_Center_Mali_b465f621cba4-others.zip: Attempting to upload to Google Drive (into folder id: 1myp8HXgbT3WHs_wqEO4n1lk_xhpanK0P)
+87342.782 (2) Googledrive chunked upload: 69.7 % uploaded (1048576)
+87345.244 (2) Googledrive chunked upload: 100 % uploaded (1048576)
+87345.252 (2) Google Drive: OK: Archive backup_2022-07-27-1057_Orange_Digital_Center_Mali_b465f621cba4-others.zip uploaded in 5.45 seconds
+87345.255 (2) Recording as successfully uploaded: backup_2022-07-27-1057_Orange_Digital_Center_Mali_b465f621cba4-others.zip
+87345.261 (2) Deleting local file: backup_2022-07-27-1057_Orange_Digital_Center_Mali_b465f621cba4-others.zip: OK
+87345.263 (2) Deleting zip manifest (backup_2022-07-27-1057_Orange_Digital_Center_Mali_b465f621cba4-others.zip.list.tmp)
+87345.843 (2) Google Drive: quota usage: used=72.8 MB, total=15360 MB, available=15287.2 MB
+87345.847 (2) Google Drive: backup_2022-07-27-1057_Orange_Digital_Center_Mali_b465f621cba4-db.gz: Attempting to upload to Google Drive (into folder id: 1myp8HXgbT3WHs_wqEO4n1lk_xhpanK0P)
+87348.421 (2) Googledrive chunked upload: 100 % uploaded
+87348.430 (2) Google Drive: OK: Archive backup_2022-07-27-1057_Orange_Digital_Center_Mali_b465f621cba4-db.gz uploaded in 2.58 seconds
+87348.433 (2) Recording as successfully uploaded: backup_2022-07-27-1057_Orange_Digital_Center_Mali_b465f621cba4-db.gz
+87348.439 (2) Deleting local file: backup_2022-07-27-1057_Orange_Digital_Center_Mali_b465f621cba4-db.gz: OK
+87348.445 (2) Retain: beginning examination of existing backup sets; user setting: retain_files=4, retain_db=4
+87348.449 (2) Number of backup sets in history: 2; groups (db): 1
+87348.451 (2) Examining (for databases) backup set with group_id=0, nonce=b465f621cba4, datestamp=1658912258 (Jul 27 2022 08:57:38)
+87348.454 (2) This backup set is the backup set just made, so will not be deleted.
+87348.454 (2) Examining (for databases) backup set with group_id=0, nonce=31f9a80d337e, datestamp=1658842827 (Jul 26 2022 13:40:27)
+87348.454 (2) This backup set remains non-empty (f=1/d=1); will retain in history
+87348.456 (2) Number of backup sets in history: 2; groups (files): 1
+87348.459 (2) Examining (for files) backup set with nonce=b465f621cba4, datestamp=1658912258 (Jul 27 2022 08:57:38)
+87348.459 (2) This backup set is the backup set just made, so will not be deleted.
+87348.462 (2) This backup set is the backup set just made, so will not be deleted.
+87348.462 (2) This backup set is the backup set just made, so will not be deleted.
+87348.463 (2) This backup set is the backup set just made, so will not be deleted.
+87348.463 (2) This backup set remains non-empty (f=1/d=1); will retain in history
+87348.465 (2) Examining (for files) backup set with nonce=31f9a80d337e, datestamp=1658842827 (Jul 26 2022 13:40:27)
+87348.465 (2) This backup set remains non-empty (f=1/d=1); will retain in history
+87348.466 (2) Retain: saving new backup history (sets now: 2) and finishing retain operation
+87348.471 (2) Resume backup (b465f621cba4, 2): finish run
+87348.474 (2) [Info] Lock option (updraft_lock_b465f621cba4, wp_options) released
+87348.477 (2) There were errors in the uploads, so the 'resume' event is remaining scheduled
+87348.481 (2) No email will/can be sent - the user has not configured an email address.
+87348.484 (2) La sauvegarde ne s'est pas terminée; une relance de la procédure est prévue
+0000.000 (3) Opened log file at time: Thu, 28 Jul 2022 11:39:39 +0000 on http://localhost/odc_web
+0000.005 (3) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.22.14 WP: 6.0.1 PHP: 7.3.29 (apache2handler, Windows NT DCIREODCPR6 10.0 build 19044 (Windows 10) AMD64) MySQL: 10.4.20-MariaDB (max packet size=1048576) WPLANG: fr_FR Server: Apache/2.4.48 (Win64) OpenSSL/1.1.1k PHP/7.3.29 safe_mode: 0 max_execution_time: 900 memory_limit: 512M (used: 51.9M | 26M) multisite: N openssl: OpenSSL 1.1.1k  25 Mar 2021 mcrypt: N LANG:  ZipArchive::addFile: Y
+0000.009 (3) Free space on disk containing Updraft's temporary directory: 238647 MB
+0000.013 (3) Requesting backup semaphore lock (b465f621cba4)
+0000.018 (3) [Info] Lock (updraft_lock_b465f621cba4, wp_options) acquired
+0000.036 (3) This backup task (b465f621cba4) is either complete or began over 2 days ago: ending (1659008379.2455, ) (existing jobdata keys: )
